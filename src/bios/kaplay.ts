@@ -1,4 +1,4 @@
-import { KaboomCtx } from "kaboom-beta";
+import { KaboomCtx } from "kaplay-beta";
 
 // @ts-ignore
 declare const kaboomContext: KaboomCtx;
