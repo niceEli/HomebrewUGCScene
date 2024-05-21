@@ -12,7 +12,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "kaboom-beta": "^3000.1.1-7.b4",
+    "kaplay-beta": "^3001.0.0-alpha.4-b1",
     "ts-loader": "^9.5.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5",
